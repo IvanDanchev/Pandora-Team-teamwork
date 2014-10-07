@@ -1,0 +1,12 @@
+C:\Users\GiantR\Source\Workspaces\Workspace\CsharpTwo TeamWork - Team Pandora\TeamWork2\TeamWork2Lines\bin\Debug\TeamWork2Lines.exe.config
+C:\Users\GiantR\Source\Workspaces\Workspace\CsharpTwo TeamWork - Team Pandora\TeamWork2\TeamWork2Lines\bin\Debug\TeamWork2Lines.exe
+C:\Users\GiantR\Source\Workspaces\Workspace\CsharpTwo TeamWork - Team Pandora\TeamWork2\TeamWork2Lines\bin\Debug\TeamWork2Lines.pdb
+C:\Users\GiantR\Source\Workspaces\Workspace\CsharpTwo TeamWork - Team Pandora\TeamWork2\TeamWork2Lines\obj\Debug\TeamWork2Lines.csprojResolveAssemblyReference.cache
+C:\Users\GiantR\Source\Workspaces\Workspace\CsharpTwo TeamWork - Team Pandora\TeamWork2\TeamWork2Lines\obj\Debug\TeamWork2Lines.exe
+C:\Users\GiantR\Source\Workspaces\Workspace\CsharpTwo TeamWork - Team Pandora\TeamWork2\TeamWork2Lines\obj\Debug\TeamWork2Lines.pdb
+D:\Downloads\Proj\Test\TeamWork2\TeamWork2Lines\bin\Debug\TeamWork2Lines.exe.config
+D:\Downloads\Proj\Test\TeamWork2\TeamWork2Lines\obj\Debug\TeamWork2Lines.exe
+D:\Downloads\Proj\Test\TeamWork2\TeamWork2Lines\obj\Debug\TeamWork2Lines.pdb
+D:\Downloads\Proj\Test\TeamWork2\TeamWork2Lines\bin\Debug\TeamWork2Lines.exe
+D:\Downloads\Proj\Test\TeamWork2\TeamWork2Lines\bin\Debug\TeamWork2Lines.pdb
+D:\Downloads\Proj\Test\TeamWork2\TeamWork2Lines\obj\Debug\TeamWork2Lines.csprojResolveAssemblyReference.cache
